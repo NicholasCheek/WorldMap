@@ -1,0 +1,17 @@
+#map {
+    width: 65vw;
+    display: inline-block;
+}
+
+#map path:hover {
+    fill: blueviolet;
+}
+
+#card {
+    float: right;
+    width: 29vw;
+    background-color: blueviolet;
+    color: white;
+    font-family: sans-serif;
+    padding: 20px;
+}
